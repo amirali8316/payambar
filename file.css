@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "IRANSansMedium";
+    src: url("fonts/IRANSansWeb_Medium.eot?#iefix") format("eot"),
+      url("fonts/IRANSansWeb_Medium.woff2") format("woff2"),
+      url("fonts/IRANSansWeb_Medium.woff") format("woff"),
+      url("fonts/IRANSansWeb_Medium.ttf") format("ttf");
+    font-weight: 500;
+  }
